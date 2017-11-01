@@ -1,4 +1,4 @@
-﻿{	"questions":
+{	"questions":
 	[
 		{ 
 		  "Text": "What does HTML stand for?",		 
@@ -23,7 +23,7 @@
 		{ 
 		  "Text": "What is the correct HTML for adding a background color?",
 		  "Answers": ["<body style='background-color:yellow;'>", "<body bg='yellow'>", "<background>yellow</background>"],
-		  "CorrectAnswer": "<body style="background-color:yellow;">"
+		  "CorrectAnswer": "<body style='background-color:yellow;'>"
 		},
 		{ 
 		  "Text": "Choose the correct HTML element to define important text",
@@ -48,7 +48,7 @@
 		{ 
 		  "Text": "How can you open a link in a new tab/browser window?",		  
 		  "Answers": ["<a href='url' target='new'>", "<a href='url' new>", "<a href='url' target='_blank'>"],
-		  "CorrectAnswer": "<a href="url" target='_blank'>",
+		  "CorrectAnswer": "<a href='url' target='_blank'>",
 		 },
 		{ 
 		  "Text": "Which of these elements are all <table> elements?",
