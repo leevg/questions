@@ -1,0 +1,63 @@
+﻿{	"questions":
+	[
+		{ 
+		  "Text": "What does HTML stand for?",		 
+		  "Answers": ["Home Tool Markup Language", "Hyperlinks and Text Markup Language", "Hyper Text Markup Language"],
+		  "CorrectAnswer": "Hyper Text Markup Language",
+		},
+		{ 
+		  "Text": "Who is making the Web standards?",		  
+		  "Answers": ["Mozilla", "Google", "Microsoft", "The World Wide Web Consortium"],
+		  "CorrectAnswer": "The World Wide Web Consortium",
+		 },
+		{ 
+		  "Text": "Choose the correct HTML element for the largest heading:",	
+		  "Answers": ["<head>", "<h1>", "<h6>", "<heading>"],
+		  "CorrectAnswer": "<h1>"
+		},
+		{ 
+		  "Text": "What is the correct HTML element for inserting a line break?",
+		  "Answers": ["<lb>", "<break>", "<br>"],
+		  "CorrectAnswer": "<br>""
+		},
+		{ 
+		  "Text": "What is the correct HTML for adding a background color?",
+		  "Answers": ["<body style='background-color:yellow;'>", "<body bg='yellow'>", "<background>yellow</background>"],
+		  "CorrectAnswer": "<body style="background-color:yellow;">"
+		},
+		{ 
+		  "Text": "Choose the correct HTML element to define important text",
+		  "Answers": ["<important>", "<strong>", "<b>", "<i>"],
+		  "CorrectAnswer": "<important>"
+		},
+		{ 
+		  "Text": "Choose the correct HTML element to define emphasized text",		  
+		  "Answers": ["<italic>", "<em>", "<i>"],
+		  "CorrectAnswer": "<em>",
+		 },
+		{ 
+		  "Text": "What is the correct HTML for creating a hyperlink?",
+		  "Answers": ["<a name='http://www.w3schools.com'>W3Schools.com</a>", "<a url='http://www.w3schools.com'>W3Schools.com</a>", "<a>http://www.w3schools.com</a>", "<a href='http://www.w3schools.com'>W3Schools</a>"],
+		  "CorrectAnswer": "<a href='http://www.w3schools.com'>W3Schools</a>"
+		},
+		{ 
+		  "Text": "Which character is used to indicate an end tag?",
+		  "Answers": ["^", "/", "<", "*"],
+		  "CorrectAnswer": "/"
+		},
+		{ 
+		  "Text": "How can you open a link in a new tab/browser window?",		  
+		  "Answers": ["<a href='url' target='new'>", "<a href='url' new>", "<a href='url' target='_blank'>"],
+		  "CorrectAnswer": "<a href="url" target='_blank'>",
+		 },
+		{ 
+		  "Text": "Which of these elements are all <table> elements?",
+		  "Answers": ["<table><tr><tt>", "<thead><body><tr>", "<table><tr><td>", "<table><head><tfoot>"],
+		  "CorrectAnswer": "<table><tr><td>"
+		},
+		{ 
+		  "Text": "Inline elements are normally displayed without starting a new line",
+		  "Answers": ["True", "False"],		  "CorrectAnswer": "True",
+		}	
+	]
+}
